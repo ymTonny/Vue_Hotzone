@@ -3,7 +3,7 @@
 ---
 根据项目需求而来，给图片创建不同热区进行跳转。
 
-![image](https://wx2.sinaimg.cn/mw690/005SNrnIgy1g2ensfkq03g30os0iethj.gif)
+![image](http://wx2.sinaimg.cn/large/005SNrnIgy1g2ensfkq03g30os0iethj.gif)
 
 ---
 ## Use
