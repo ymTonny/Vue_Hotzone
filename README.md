@@ -1,7 +1,7 @@
 ﻿# Picture hot_zone
 
 ---
-根据项目需求而来，给图片创建不同热区进行跳转。
+根据项目需求而来，给图片创建不同热区进行跳转.
 
 ![image](http://wx2.sinaimg.cn/large/005SNrnIgy1g2ensfkq03g30os0iethj.gif)
 
