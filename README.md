@@ -119,6 +119,7 @@ export default {
   margin:auto;
   margin-top:100px;
 }
+
 input {
   width: 100%;
   box-sizing: border-box;
