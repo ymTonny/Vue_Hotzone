@@ -1,4 +1,4 @@
-﻿# Picture hot_zone
+﻿# Picture hot_zone.
 
 ---
 根据项目需求而来，给图片创建不同热区进行跳转
